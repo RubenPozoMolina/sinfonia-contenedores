@@ -1,2 +1,2 @@
-# sinfonia-contenedores
-Tutorial sobre el uso de kubernetes aplicación REST y balanceo de carga postgres
+# Whale symphony
+Tutorial about the use of kubernetes using a REST server and PostgreSQL
